@@ -89,3 +89,12 @@ button {
     border-radius: 8px;
     text-align: center;
 }
+/*garden
+*/
+.garden{
+    display: flex;
+    
+}
+.garden_pic{
+    margin: 40px;
+}
